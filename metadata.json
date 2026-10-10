@@ -1,0 +1,6 @@
+{
+  "name": "FlexFinder - Gym Discovery & Owner Portal",
+  "description": "Find your ideal gym tailored to your fitness goals through a smart questionnaire, or register and showcase your gym website, amenities, and Q&A as an owner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
